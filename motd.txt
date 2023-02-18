@@ -1,1 +1,1 @@
-New beta, added map, version checker, and some cosmetics.
+New beta, added map, version checker, and some cosmetics, and some other stuff.
